@@ -1,2 +1,4 @@
 # odin-recipes
-This will be the recipes project for the HTML section in foundations for TOP
+
+This project is to create and design a recipie website using what I learned from 
+the Odin Project
